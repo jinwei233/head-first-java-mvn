@@ -1,7 +1,6 @@
 package chap06;
 
-import helpers.GameHelper;
-import java.util.*;
+import java.util.ArrayList;
 
 public class DotComBust {
   private GameHelper helper = new GameHelper();
