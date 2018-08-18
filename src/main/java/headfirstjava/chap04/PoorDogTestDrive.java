@@ -7,16 +7,3 @@ public class PoorDogTestDrive {
     System.out.println("Dog name is " + one.getName());
   }
 }
-
-class PoorDog {
-  private int size;
-  private String name;
-
-  public int getSize() {
-    return size;
-  }
-
-  public String getName() {
-    return name;
-  }
-}
