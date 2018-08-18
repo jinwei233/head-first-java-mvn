@@ -1,3 +1,10 @@
+/**
+ * 一般数组
+ *
+ * <p>- 创建时确定大小
+ *
+ * <p>- 根据索引存放
+ */
 package chap06;
 
 import java.util.ArrayList;
