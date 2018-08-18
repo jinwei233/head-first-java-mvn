@@ -1,6 +1,6 @@
+// javac chap05/Game.java
+// java chap05/Game
 package chap05;
-
-import helpers.GameHelper;
 
 public class Game {
   public static void main(String[] args) {
